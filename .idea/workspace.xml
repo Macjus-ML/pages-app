@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f94e6d9-4785-4a1d-933d-0aad9c89a56d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/password_reset_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/article_new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/news.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/news.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newspaper_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/newspaper_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newspaper_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/newspaper_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +100,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579590704148</updated>
-      <workItem from="1579590706506" duration="13552000" />
+      <workItem from="1579590706506" duration="22677000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1579696965409">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1579696965409" />
+    <state x="21" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1579679262905">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="21" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1579679262905" />
   </component>
 </project>
