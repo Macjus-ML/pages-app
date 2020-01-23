@@ -1,6 +1,8 @@
-# pages-app
+# Pages App was developed while studyng book "Django for beginers"
 
-clone 
+
+For detail clone app.
+
 
 Deploy Heroku.
 ## 1. Update Pipfile.lock
